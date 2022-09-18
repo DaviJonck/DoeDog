@@ -1,4 +1,5 @@
 # DoeDog
+> JavaScript is not working because of an update
 This is a website to help street animals
 
 HTML, CSS and JS.
