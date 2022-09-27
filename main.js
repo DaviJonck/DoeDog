@@ -46,9 +46,9 @@ function activateMenuAtCurrentSection(section) {
 
 function showNavOnScroll() {
       if(scrollY > 0) { 
-        naviga.classList.add('scroll')
+        navega.classList.add('scroll')
     } else {
-        naviga.classList.remove('scroll')
+        navega.classList.remove('scroll')
     }
 }
 
